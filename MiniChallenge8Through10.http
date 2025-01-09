@@ -1,0 +1,6 @@
+@MiniChallenge8Through10_HostAddress = http://localhost:5129
+
+GET {{MiniChallenge8Through10_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
