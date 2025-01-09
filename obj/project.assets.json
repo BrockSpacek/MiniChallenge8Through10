@@ -428,19 +428,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\brock\\.nuget\\packages\\": {}
+    "C:\\Users\\thenr\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\brock\\OneDrive\\Documents\\CodeStack\\Level 2\\MiniChallenge8Through10\\MiniChallenge8Through10.csproj",
+      "projectUniqueName": "C:\\Users\\thenr\\Documents\\codestack\\LevelTwo\\WeekOne\\PeerReview\\MiniChallenge8Through10\\MiniChallenge8Through10.csproj",
       "projectName": "MiniChallenge8Through10",
-      "projectPath": "C:\\Users\\brock\\OneDrive\\Documents\\CodeStack\\Level 2\\MiniChallenge8Through10\\MiniChallenge8Through10.csproj",
-      "packagesPath": "C:\\Users\\brock\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\brock\\OneDrive\\Documents\\CodeStack\\Level 2\\MiniChallenge8Through10\\obj\\",
+      "projectPath": "C:\\Users\\thenr\\Documents\\codestack\\LevelTwo\\WeekOne\\PeerReview\\MiniChallenge8Through10\\MiniChallenge8Through10.csproj",
+      "packagesPath": "C:\\Users\\thenr\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\thenr\\Documents\\codestack\\LevelTwo\\WeekOne\\PeerReview\\MiniChallenge8Through10\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\brock\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\thenr\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
