@@ -12,6 +12,7 @@ builder.Services.AddScoped<Challenge8Services>();
 builder.Services.AddScoped<Challenge9Services>();
 builder.Services.AddScoped<Challenge10Services>();
 
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
