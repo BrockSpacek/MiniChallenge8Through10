@@ -10,6 +10,6 @@ namespace MiniChallenge8Through10.Controllers
     [Route("api/[controller]")]
     public class Challenge10Controller : ControllerBase
     {
-        
+       
     }
 }
